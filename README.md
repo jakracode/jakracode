@@ -23,20 +23,6 @@
 - Java Development
 - Web Frontend Development
 
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jakracode&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="jakracode's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=jakracode&theme=nightowl&hide_border=true&cache_seconds=86400" alt="jakracode's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jakracode&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Hello, I'm Jakra!'s GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=jakracode&theme=nightowl&radius=10" alt="jakracode's Activity Graph" />
-</p>
-
-
 ## 🔗 Connect with Me
 <p align="left"> <a href="https://x.com/reioo23?s=21" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=FF00FF" alt="Hello, I'm Jakra!'s Twitter"/></a> <a href="https://www.youtube.com/channel/UCpXsnUS4ENU0e1ybBI2Pu1w" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&color=FF00FF" alt="Hello, I'm Jakra!'s YouTube"/></a> <a href="mailto:vichheansombath@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Hello, I'm Jakra!'s Email"/></a></p>
 
