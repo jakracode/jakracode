@@ -21,12 +21,8 @@
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sopanha9&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sopanha9&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sopanha9&theme=tokyonight&no-bg=true&margin-w=15" alt="trophy" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jakracode&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jakracode&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 ## 🧠 My Focus Areas
