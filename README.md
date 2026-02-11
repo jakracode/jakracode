@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Hello%2C%20I'm%20Jakra!&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Web%20Frontend%2C%20Java%20Developments&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Hello%2C%20I'm%20Jakra!&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Web%20Frontend%2C%20Java%20Developments&descSize=18&descAlignY=55&textBg=false"/>](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Jakra&textBg=false&section=header&reversal=false)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Hungry%20to%20improve!" alt="Typing introduction" />
