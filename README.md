@@ -11,9 +11,9 @@
 </p>
 
 ## 📌 About Me
-- 🌱 I’m currently learning **Responsive Web Design, Java Development**
+- 🌱 I’m currently learning **Responsive Web Design**
 - 👯 I’m looking to create more projects
-- 🤝 I’m looking for help with **Java Programming**
+- 🤝 I’m looking for help with **Web Development**
 - ⚡ Fun fact: **I am building a travel guide platform called Varman!**
 
 ## 📁 Knowledge
@@ -26,8 +26,7 @@
 </p>
 
 ## 🧠 My Focus Areas
-- Java Development
-- Web Frontend Development
+- Web Development
 
 ## 🔗 Connect with Me
 <p align="left"> <a href="https://x.com/reioo23?s=21" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=FF00FF" alt="Hello, I'm Jakra!'s Twitter"/></a> <a href="https://www.youtube.com/channel/UCpXsnUS4ENU0e1ybBI2Pu1w" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&color=FF00FF" alt="Hello, I'm Jakra!'s YouTube"/></a> <a href="mailto:jakracodecam@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Hello, I'm Jakra!'s Email"/></a></p>
