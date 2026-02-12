@@ -1,37 +1,75 @@
-<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Jakra&textBg=false&section=header&reversal=false"/>
+<img
+    src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Jakra&textBg=false&section=header&reversal=false" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Hungry%20to%20improve!" alt="Typing introduction" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Hungry%20to%20improve!"
+        alt="Typing introduction" />
 </p>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=jakracode">
-    <img src="https://komarev.com/ghpvc/?username=jakracode&label=Profile%20views&color=00FFFF&style=flat-square" alt="jakracode's profile views" />
-  </a>
+    <a href="https://komarev.com/ghpvc/?username=jakracode">
+        <img src="https://komarev.com/ghpvc/?username=jakracode&label=Profile%20views&color=00FFFF&style=flat-square"
+            alt="jakracode's profile views" />
+    </a>
 </p>
 
 ## 📌 About Me
-- 🌱 I’m currently learning **Responsive Web Design**
+- 🌱 I’m currently learning **Web Development**
 - 👯 I’m looking to create more projects
 - 🤝 I’m looking for help with **Web Development**
-- ⚡ Fun fact: **I am building a travel guide platform called Varman!**
 
-## 📁 Knowledge
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 🛠️ Tech Stack & Tools
+
+<table>
+    <tr>
+        <td valign="top" width="25%">
+            <strong>Language</strong><br />
+            ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+            ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+            ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+            ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+            ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+            ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+            ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+            ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+        </td>
+        <td valign="top" width="25%">
+            <strong>Framework</strong><br />
+            ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+            ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+            ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+            ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+            ![Next
+            JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+            ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+            ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+            ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+        </td>
+        <td valign="top" width="25%">
+            <strong>Database/Other</strong><br />
+            ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+            ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+            ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+        </td>
+        <td valign="top" width="25%">
+            <strong>Other Tools</strong><br />
+            ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+            ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+            ![Adobe
+            Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+            ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+        </td>
+    </tr>
+</table>
+
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jakracode&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jakracode&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="170" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jakracode&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"
+        height="170" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jakracode&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+        height="170" />
 </p>
 
 ## 🧠 My Focus Areas
 - Web Development
-
-## 🔗 Connect with Me
-<p align="left"> <a href="https://x.com/reioo23?s=21" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=FF00FF" alt="Hello, I'm Jakra!'s Twitter"/></a> <a href="https://www.youtube.com/channel/UCpXsnUS4ENU0e1ybBI2Pu1w" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&color=FF00FF" alt="Hello, I'm Jakra!'s YouTube"/></a> <a href="mailto:jakracodecam@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Hello, I'm Jakra!'s Email"/></a></p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
