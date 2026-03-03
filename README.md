@@ -1,14 +1,14 @@
 <img
-    src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Jakra&textBg=false&section=header&reversal=false" />
+    src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=R3zio&textBg=false&section=header&reversal=false" />
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Hungry%20to%20improve!"
+    <img src="https://readme-typing-svg.demolab.com?font=Inter+Code&weight=600&size=20&duration=4000&pause=1000&color=DCFEFE&center=true&vCenter=true&width=650&lines=Web%20Fullstack%20Developer!"
         alt="Typing introduction" />
 </p>
 
 <p align="center">
-    <a href="https://komarev.com/ghpvc/?username=jakracode">
-        <img src="https://komarev.com/ghpvc/?username=jakracode&label=Profile%20views&color=00FFFF&style=flat-square"
+    <a href="https://komarev.com/ghpvc/?username=rezio23">
+        <img src="https://komarev.com/ghpvc/?username=rezio23&label=Profile%20views&color=00FFFF&style=flat-square"
             alt="jakracode's profile views" />
     </a>
 </p>
@@ -63,9 +63,9 @@
 
 ## 📊 GitHub Analytics
 <p align="center">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jakracode&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rezio23&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"
         height="170" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jakracode&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rezio23&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
         height="170" />
 </p>
 
