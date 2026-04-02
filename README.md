@@ -1,9 +1,10 @@
+
 <img
     src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=R3zio&textBg=false&section=header&reversal=false" />
-
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter+Code&weight=600&size=20&duration=4000&pause=1000&color=DCFEFE&center=true&vCenter=true&width=650&lines=Web%20Fullstack%20Developer!"
-        alt="Typing introduction" />
+    
+<p align="center" margin="0">
+    <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Inter&size=32&fontweight=2400&center=true&pause=500&color=00FFFF&lines=Welcome+to+my+profile+👋;I+am+R3zio+⚡;Full-Stack+Web+Developer.;3rd+Year+CSE+Student.;"
+        alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,52 +15,43 @@
 </p>
 
 ## 📌 About Me
-- 🌱 I’m currently learning **Web Development**
-- 👯 I’m looking to create more projects
-- 🤝 I’m looking for help with **Web Development**
+I am **Sombath**, also known as **R3zio**, a third-year Computer Science and Engineering student from **Cambodia**. I began my journey in IT at the end of 2024, with a strong focus on **Web Development**.
+- 💻 **In Progress**: I am currently working on developing my skills and building projects in web development.
+- 🌱 **Self Development**: I am always willing to learn from others to improve myself.
+- 🤝 **Communication Skills**: I have completed many team projects within my community.
+- 🧠 **Mindset**: I would rather try than regret missing opportunities.
+- 📌 **Future Plan**: My goal is to build a community that supports the future of Cambodian technology.
+<br>
 
-### 🛠️ Tech Stack & Tools
-
-<table align="center">
-  <tr>
-    <td valign="top" width="25%">
-      <strong>Languages</strong><br/><br/>
-      <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-      <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-    </td>
-    <td valign="top" width="25%">
-      <strong>Frameworks</strong><br/><br/>
-      <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-      <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-      <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
-      <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
-      <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    </td>
-    <td valign="top" width="25%">
-      <strong>Databases</strong><br/><br/>
-      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
-      <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-    </td>
-    <td valign="top" width="25%">
-      <strong>Tools</strong><br/><br/>
-      <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-      <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
-      <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-    </td>
-  </tr>
+## 🛠️ Tech Stack & Tools
+<table>
+    <tr>
+        <td valign="top" width="33%">
+            <strong>Frontend</strong><br />
+            <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
+            <img src="https://img.shields.io/badge/typescript-%23007acc.svg?style=flat&logo=typescript&logoColor=white" />
+            <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" />
+            <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+        </td>
+        <td valign="top" width="33%">
+            <strong>Backend</strong><br />
+            <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" />
+            <img src="https://img.shields.io/badge/django-%23092e20.svg?style=flat&logo=django&logoColor=white" />
+            <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=flat" />
+        </td>
+        <td valign="top" width="33%">
+            <strong>Database / Other</strong><br />
+            <img src="https://img.shields.io/badge/SQL%20Server-CC2927.svg?style=flat&logo=mssqlserver&logoColor=white" />
+            <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" />
+            <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" />
+            <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white" />
+            <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" />
+            <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white" >
+            <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" >
+        </td>
+    </tr>
 </table>
-
+<br>
 
 ## 📊 GitHub Analytics
 <p align="center">
@@ -68,6 +60,16 @@
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rezio23&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
         height="170" />
 </p>
+<br>
 
-## 🧠 My Focus Areas
-- Web Development
+## 🤝 Connect with me
+<p align="left">
+    <a href="https://www.facebook.com/v.bathhh"><img
+            src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
+    <a href="mailto:YOUR_REAL_EMAIL@gmail.com"><img
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.tiktok.com/@reziooo23?_r=1&_t=ZS-95Bsuz7gpa4"><img
+            src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" /></a>
+    <a href="https://www.threads.com/@rezio_23?igshid=NTc4MTIwNjQ2YQ=="><img
+            src="https://img.shields.io/badge/Threads-%23000000.svg?style=for-the-badge&logo=Threads&logoColor=white" /></a>
+</p>
